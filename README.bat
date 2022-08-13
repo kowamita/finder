@@ -1,5 +1,5 @@
 E:
-cd E:\Tu Nguyen\blog\BLOG\GIT Finder
+cd E:\WEB\BLOG\finder
 git add .
 git commit -m "halo"
 git push
