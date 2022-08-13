@@ -1,1 +1,1 @@
-xin chào đã đến với kowamita
+﻿var i = 'xin chao den voi kowamita';
