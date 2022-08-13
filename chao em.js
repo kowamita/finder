@@ -1,0 +1,1 @@
+var data='E:\WEB\BLOG\finder';
